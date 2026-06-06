@@ -1,3 +1,0 @@
-/home/roadh/auto-drive-portfolio/build/CMakeFiles/LaneDetection.dir
-/home/roadh/auto-drive-portfolio/build/CMakeFiles/edit_cache.dir
-/home/roadh/auto-drive-portfolio/build/CMakeFiles/rebuild_cache.dir
